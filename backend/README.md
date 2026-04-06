@@ -152,7 +152,7 @@ Example:
 
 ```env
 PORT=5000
-MONGO_URI=mongodb://127.0.0.1:27017/service-desk
+MONGO_URI=
 ```
 
 You can copy values from `.env.example` and replace `MONGO_URI` if you are using MongoDB Atlas.
