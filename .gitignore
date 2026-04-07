@@ -1,0 +1,14 @@
+# Backend secrets and local config
+backend/.env
+backend/.env.*
+!backend/.env.example
+
+# Backend dependencies and logs
+backend/node_modules/
+backend/npm-debug.log*
+backend/yarn-debug.log*
+backend/yarn-error.log*
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
